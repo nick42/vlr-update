@@ -1,0 +1,6 @@
+Things to look at for update:
+
+- git fetch/pull/build
+- PDB files for Windows components (takes a while to load after updates)
+- Software updates for apps without update service
+  - Checking for updates based on web site info

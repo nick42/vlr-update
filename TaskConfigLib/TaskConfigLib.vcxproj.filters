@@ -21,12 +21,18 @@
     <ClInclude Include="pch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="NetworkSource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="TaskConfigLib.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NetworkSource.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -181,6 +181,9 @@
     <ProjectReference Include="..\..\vlr-util\vlr-util\vlr-util.vcxproj">
       <Project>{40aced1c-610a-4a7e-af26-4966b4091c5e}</Project>
     </ProjectReference>
+    <ProjectReference Include="..\TaskConfigLib\TaskConfigLib.vcxproj">
+      <Project>{90171c2d-c199-416a-9f5c-a501d483f2c6}</Project>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
